@@ -1,16 +1,18 @@
-### Olá! Eu sou a Alessa Santos!
+### Olá, eu sou a Alessa Santos!
 
-🌱 Estudando Python 
+🖥️ Análise e Desenvolvimento de Sistemas </br>
+📚 Aprendendo Front-End e Python
 
 <div align="center">
   <a href="https://github.com/GingerLeh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GingerLeh&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GingerLeh&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GingerLeh&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GingerLeh&layout=compact&langs_count=7&theme=outrun"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Leh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Leh-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/930608052204355646/930608132588179496/Alessa.gif?width=676&height=676">
 </div>
   
   ##
