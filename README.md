@@ -13,6 +13,7 @@
   <img align="center" alt="Leh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Leh-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" alt="Leh-Cplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="right" alt="Leh-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/930608052204355646/930608132588179496/Alessa.gif?width=676&height=676">
 </div>
   
