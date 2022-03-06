@@ -1,7 +1,7 @@
 ### Olá, eu sou a Alessa Santos!
 
 🖥️ Análise e Desenvolvimento de Sistemas </br>
-📚 Aprendendo Python e Teste de Software
+📚 Aprendendo Data Science e Desenvolvimento Web
 
 <div align="center">
   <a href="https://github.com/GingerLeh" color:transparent></a>
