@@ -1,4 +1,4 @@
-### Olá, eu sou a Alessa de Morais!
+### Olá, eu sou a Alessa Santos!
 
 🖥️ Análise e Desenvolvimento de Sistemas </br>
 📚 Aprendendo e trabalhando com Data Science 
