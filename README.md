@@ -1,7 +1,8 @@
 ### Olá, eu sou a Alessa Santos!
 
-🖥️ Análise e Desenvolvimento de Sistemas </br>
-📚 Aprendendo e trabalhando com Data Science 
+🖥️ Formada em Análise e Desenvolvimento de Sistemas </br>
+📚 Aprendendo e trabalhando com Data Science </br>
+💼 Itau Unibanco
 
 <div align="center">
   <a href="https://github.com/GingerLeh" color:transparent></a>
