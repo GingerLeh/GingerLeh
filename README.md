@@ -3,14 +3,14 @@
 
 <h1 align="center">Olá 👋, Eu sou Alessa de Morais</h1>
 <h3 align="center">Uma eterna estudante, curiosa por tecnologia</h3>
+  
+🔭 Atualmente trabalho com **Ciência de Dados**   <br/>
+🌱 Atualmente estou aprendendo sobre **Ciência de Dados e Estatística** <br/>
+📫 Me contate pelo email: **alessa.bcc@gmail.com**<br/>
 
-- 🔭 Atualmente trabalho com **Ciência de Dados**
-
-- 🌱 Atualmente estou aprendendo sobre **Ciência de Dados e Estatística**
-
-- 📫 Me contate pelo email: **alessa.bcc@gmail.com**
-
-<img align="center" alt="coding" width="200" src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVucWRzZ3hpeHAzcHlnNjVpNTNvdm1sM2gyYnRqZ2Jyd3dxMWU3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif>
+<div align="center">
+  <img alt="coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVucWRzZ3hpeHAzcHlnNjVpNTNvdm1sM2gyYnRqZ2Jyd3dxMWU3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GingerLeh&label=Profile%20views&color=0e75b6&style=flat" alt="GingerLeh" /> </p>
 
